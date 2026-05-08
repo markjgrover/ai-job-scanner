@@ -1,0 +1,10 @@
+{
+  "ownerPassword": "change-me-to-something-secret",
+  "gmailLabel": "Job Alerts",
+  "salaryFloor": 150000,
+  "preferredLocations": ["Remote"],
+  "acceptableHybridStates": ["NC", "SC"],
+  "ftpRemoteDir": "jobs",
+  "jobSources": ["LinkedIn", "Jobright", "Built In", "Indeed"],
+  "resume": "YOUR NAME — YOUR TITLE\nLocation: Your City, State (remote preferred)\n\nCORE CAPABILITIES:\nList your key skills here, comma separated.\n\nEXPERIENCE:\n- Company Name, Role (Year-Year): Key achievement with measurable result.\n- Company Name, Role (Year-Year): Key achievement with measurable result.\n\nEDUCATION: Your Degree, Your University.\nCERTIFICATIONS: List your certifications.\n\nIDEAL ROLES: List target job titles.\nPrefers remote. Industries: List target industries."
+}

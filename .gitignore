@@ -1,0 +1,22 @@
+# ── Credentials & secrets (NEVER commit these) ──
+gmail_token.json
+gmail_credentials.json
+ftp_config.json
+config.json
+
+# ── Runtime data files ──
+scanned_ids.json
+job_history.json
+job_status.json
+job_matches.html
+
+# ── Debug files ──
+debug_email_*.txt
+rank_debug.txt
+_netrc.tmp
+
+# ── Old versions ──
+OLD*.js
+
+# ── Node ──
+node_modules/
