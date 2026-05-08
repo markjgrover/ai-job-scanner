@@ -1,4 +1,4 @@
-# ai-job-scanner
+# AI Job Scanner
 
 **An AI-powered job search automation tool that scans your inbox, extracts job listings, ranks them against your resume, and publishes a live CRM dashboard — automatically, every morning.**
 
